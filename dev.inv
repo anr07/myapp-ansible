@@ -1,0 +1,2 @@
+[buildserver]
+54.172.0.97 ansible_user=ec2-user
